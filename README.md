@@ -10,7 +10,11 @@ The goal is to analyze the COVID-19 effects on shared-biking in New York.
 ## Data Source
 Compare [Citi Bike Data](https://www.citibikenyc.com/system-data) during the summertime in 2019 and 2020. 
 
-## Visualizations
+Here are the datasets I use for the analysis:
+[Citi Bike Data - Aug 2019](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip)
+[Citi Bike Data - Aug 2020](https://s3.amazonaws.com/tripdata/202008-citibike-tripdata.csv.zip)
+
+## Tableau Data Visualization
 https://public.tableau.com/app/profile/kori.yan/viz/TableauChallenge_16383985155370/Story1
 
 ## Observable Trends
