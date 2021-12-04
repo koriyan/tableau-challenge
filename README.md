@@ -10,34 +10,6 @@ The goal is to analyze the COVID-19 effects on shared-biking in New York.
 ## Data Source
 Compare [Citi Bike Data](https://www.citibikenyc.com/system-data) during the summertime in 2019 and 2020. 
 
-### Citi Bike trip data includes:
-Ride ID
-Rideable type
-Started at
-Ended at
-Start station name
-Start station ID
-End station name
-End station ID
-Start latitude
-Start longitude
-End latitude
-End Longitude
-Member or casual ride
-
-Data format previously:
-Trip Duration (seconds)
-Start Time and Date
-Stop Time and Date
-Start Station Name
-End Station Name
-Station ID
-Station Lat/Long
-Bike ID
-User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
-Gender (Zero=unknown; 1=male; 2=female)
-Year of Birth
-
 ## Visualizations
 https://public.tableau.com/app/profile/kori.yan/viz/TableauChallenge_16383985155370/Story1
 
